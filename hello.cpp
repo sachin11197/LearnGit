@@ -3,7 +3,7 @@ using namespace std;
 
 void fun(){
 	cout<<"SDE1 added fun()\n";
-}'=
+}
 
 //s1 added : 
 void fun1(){
